@@ -23,8 +23,9 @@ Basically, the game thinks it's fully online, but only matchmaking actually goes
 Launch Bloodborne. You'll see "online" in‑game. Invite your friends, ring your bells, and co‑op should work if your real Shadnet server is up.
 
 # Note
-This is poorly made – I threw it together in an afternoon so my friends and I could play. No error handling, no logging worth a damn, no multi‑threading. It works on my machine™.
+This is poorly made – I threw it together in an afternoon so my friends and I could play. No error handling, It just works on my machine™.
 
-Contributing If you want to improve this mess, feel free to fork and PR. Just know that the code is held together with duct tape and spite – I won't judge your hacky fixes.
+Contributing If you want to improve this mess, feel free to fork and PR. Just know that the code is held together with duct tape and spite.
+HOWEVER... if you want.. you can analyze the server request/responses and make a whole real server... do as you wish. 
 
 License MIT, because who cares.
