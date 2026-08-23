@@ -1,4 +1,4 @@
-i just want to play coop with my friend, why should my shadnet server depend on the hunters dream server!?
+i just want to play coop with my friends, why should my shadnet server depend on the hunters dream server!?
 
 # NoDreamForHunter
 
